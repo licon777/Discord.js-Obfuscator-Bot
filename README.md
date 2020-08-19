@@ -11,4 +11,4 @@ How to use:
 * Send your file
 
 Find the original obfuscator source at: https://github.com/Singularity5490/menprotect
-Install luaforwindows (here)[https://github.com/rjpcomputing/luaforwindows/releases] first before using it.
+Install luaforwindows [here](https://github.com/rjpcomputing/luaforwindows/releases) first before using it.
