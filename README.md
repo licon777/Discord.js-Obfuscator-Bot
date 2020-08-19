@@ -10,6 +10,6 @@ How to use:
 * Select the options you want
 * Send your file
 
-Find the original obfuscator source at: https://github.com/Singularity5490/menprotect
+Find the original obfuscator source at: [menprotect](https://github.com/Singularity5490/menprotect)
 
 Install luaforwindows [here](https://github.com/rjpcomputing/luaforwindows/releases) first before using it.
